@@ -1,1 +1,1 @@
-# Sprint
+# Repositório para Ciência de Dados.
